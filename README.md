@@ -1,3 +1,5 @@
+Built on python 3.7
+
 Press * once you're running the main.py to manually type all text in a document that you need to label data.txt
 and place into the directory where you are running the main.py from
 
